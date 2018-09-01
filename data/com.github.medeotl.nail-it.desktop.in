@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Nail it
+GenericName=Nail your knowledge
+Comment=Random present information you need to nail in your brain
+Categories=Utility;Education;
+Exec=com.github.medeotl.nail-it
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=notifications-app
+X-GNOME-UsesNotifications=true
+Keyword=Notifications;Example;

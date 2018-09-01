@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Nicomede Fasiello <FasielloN@yahoo.it> -->
+<component type="desktop">
+  <id>com.github.medeotl.nail-it.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>nail-it</name>
+  <summary>Nail your knowledge</summary>
+  <description>
+    <p>Random present information you need to nail in your brain.</p>
+  </description>
+</component>
